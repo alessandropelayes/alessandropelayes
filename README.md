@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning embedded systems development and advanced automation.
 - 🔧 Focused on the integration of hardware and software, control theory, and simulation.
 - 💬 Native Spanish speaker, currently improving my English proficiency for academic and professional growth.
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
